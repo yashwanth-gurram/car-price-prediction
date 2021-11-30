@@ -1,5 +1,5 @@
 # Car Price predictor: Project Overview
-* A web that estimates the selling price of the used cars to help customers to negotiate from dealers.
+* A web app that estimates the selling price of the used cars to help customers to negotiate from dealers.
 * Optimized Random Forest Regressor using RandomizedsearchCV to reach the best model.
 * Built a client facing API using flask and deployed into heroku cloud.
 * Demo: https://sell-my-car.herokuapp.com/
